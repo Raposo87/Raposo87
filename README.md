@@ -5,13 +5,13 @@
 
 - 🌱 Atualmente estou aprendendo **Ciências de Dados, Power BI**
 
-- 💬 Me pergnte sobre **Python, Análise de dados, Ciencias de Dados**
+- 💬 Me pergunte sobre **Python, Análise de dados, Ciencias de Dados**
 
-- 📫 Me encontra por e-mail **igorraposo02@gmail.com**
+- 📫 Me encontrar por e-mail **igorraposo02@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-< a href="https://instagram.com/raposo_87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/instagram.svg" alt="raposo_87" height="30" width="40" /></a>
+<a href="https://instagram.com/raposo_87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/instagram.svg" alt="raposo_87" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas :</h3>
