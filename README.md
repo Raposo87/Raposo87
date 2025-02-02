@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Igor Raposo</h1>
 <h3 align="center">Apaixonado por Tecnologia, Análise e Ciências de dados</h3>
 
-- 🔭 Estou estudando Análise/Ciências de dados com Python [Análise de dados](https://github.com/Raposo87/Analise-dados-cancelamento-cartao)
+- 🔭 Estou estudando **Front-End** (https://igorraposo.pt/)
 
-- 🌱 Atualmente estou aprendendo **Ciencias de Dados, Power BI**
+- 🌱 Atualmente estou aprendendo **React e Tailwind**
 
-- 💬 Me pergunte sobre **Python, Análise de dados, Ciencias de Dados**
+- 💬 Me pergunte sobre **Desenvolvimento Web**
 
 - 📫 Me encontra por e-mail **igorraposo02@gmail.com**
 
