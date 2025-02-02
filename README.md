@@ -12,6 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/raposo_87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raposo_87" height="30" width="40" /></a>
+<a href="https://igorraposo.pt/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="raposo_87" height="30" width="85" /></a>
+<a href="https://www.linkedin.com/in/igor-raposo-146929294/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="raposo_87" height="30" width="90" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
